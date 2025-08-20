@@ -1,5 +1,5 @@
 # E_Waste_CE
-Electro Waste Problem
+Electronic Waste Problem
 
 
 Welcome! This repository contains my recent research on Circular Economy - Electronic Waste
