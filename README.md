@@ -7,7 +7,7 @@ Welcome! This repository contains my recent research on Circular Economy - Elect
 ## Materials
 
 – Visual summary of key findings.  
-- **Presentation:** [Presentation_ewaste_CE_MK. pptx] - 12 Slide deck for the study.  
+- **Presentation:** [Presentation_ewaste_CE_MK. pptx] - Slide deck for the study.  
 - **Full Research Paper:** [E_Waste_Research_MK.pdf– Detailed study and analysis.
 
 ## About
